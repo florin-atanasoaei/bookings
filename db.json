@@ -1,0 +1,32 @@
+{
+  "bookings": [
+    {
+      "offerName": "Massagefdsfs",
+      "propertyId": "1",
+      "duration": 61,
+      "price": 20,
+      "startTime": "2022-05-23T08:15:49+03:00",
+      "visitors": [
+        {
+          "id": 0,
+          "categoryName": "Full",
+          "count": 1
+        }
+      ],
+      "employeeId": "1",
+      "employeeName": "John Smith",
+      "customer": {
+        "firstName": "fdsdfdssdffs",
+        "lastName": "sfdsf",
+        "country": "germany",
+        "phone": "sffds",
+        "email": "venussalon@gmail.com",
+        "address": "",
+        "street": "",
+        "zipcode": "",
+        "comments": ""
+      },
+      "id": 1
+    }
+  ]
+}
